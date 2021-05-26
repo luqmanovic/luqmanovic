@@ -1,5 +1,5 @@
-# Giannini -The-Bank-ChatBot
-## This is a chatbot application developed in Python 2.7 using Rasa NLU library.
+luqmanovic banking chatbot
+## This is a chatbot application developed in Python 3.7 using Rasa NLU library.
 The bot provides command line interface where users can interact with the bot and ask some basic questions about its functionality. Also one can query the database and display their current balance and transaction statement.
 
 ## Future Plan: 
